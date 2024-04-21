@@ -28,3 +28,9 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+.firebase/hosting.cHVibGlj.cache
+.firebase/hosting.ZGlzdA.cache
+.firebaserc
+.github/workflows/firebase-hosting-pull-request.yml
+.github/workflows/firebase-hosting-merge.yml
+firebase.json
